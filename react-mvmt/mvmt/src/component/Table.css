@@ -1,0 +1,41 @@
+.tableWrap {
+    height:90vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+table th, table td{
+    border:1.5px solid black ;
+    text-align: center;
+    padding: 2px 40px;
+    font-size: larger;
+    color: black;
+  }
+table td{
+    background-color:rgb(241, 243, 244);
+
+}
+table th{
+    background-color: rgb(248, 213, 219);
+}
+table{
+    /* width: 10%;
+    border-collapse: collapse ; */
+width:1px
+}
+input{
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.addForm button{
+    width:100px;
+    padding: 5px;
+    color: white;
+}
+
+.addForm button:hover{
+    cursor:pointer;
+    background-color: rgb(7, 62, 7)
+}

@@ -1,0 +1,69 @@
+[
+    {
+        "id":1,
+        "pcat":"Watch",
+        "pname":"Watch", 
+        "pid":"1234",
+        "pclr":"Black + Black metal",
+        "pgen":"Men",
+        "psize":"small",
+        "prize":"$123",
+        "pdes":"watches are to be classy"
+    },
+    {
+        "id":2,
+        "pcat":"watch",
+        "pname":"Watch", 
+        "pid":"1235",
+        "pclr":"Black + Silver",
+        "pgen":"Women",
+        "psize":"Xs",
+        "prize":"$123",
+        "pdes":"watches are to be classy"
+    },
+    {
+        "id":3,
+        "pcat":"Belt",
+        "pname":"Belt", 
+        "pid":"435",
+        "pclr":"Silver + blue",
+        "pgen":"Men",
+        "psize":"12 Inch",
+        "prize":"$45",
+        "pdes":"Makes you stylish"
+    },
+    {
+        "id":4,
+        "pcat":"Gifting",
+        "pname":"Couple Watch", 
+        "pid":"567",
+        "pclr":"Gold + Smoke white",
+        "pgen":"Men And women",
+        "psize":"medium",
+        "prize":"$140",
+        "pdes":"watches are to be classy"
+    },
+    {
+        "id":5,
+        "pcat":"Belt",
+        "pname":"Belt", 
+        "pid":"435",
+        "pclr":"Silver + blue",
+        "pgen":"Men",
+        "psize":"12 Inch",
+        "prize":"$45",
+        "pdes":"Makes you stylish"
+    },
+    {
+        "id":6,
+        "pcat":"Gifting",
+        "pname":"Couple Watch", 
+        "pid":"567",
+        "pclr":"Gold + Smoke white",
+        "pgen":"Men And women",
+        "psize":"medium",
+        "prize":"$140",
+        "pdes":"watches are to be classy"
+    }
+
+]
